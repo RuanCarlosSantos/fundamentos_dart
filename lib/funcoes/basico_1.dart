@@ -8,6 +8,7 @@ main() {
   int c = 4;
   int d = 5;
   somaComPrint(c, d);
+  print('____Boa Noite!____');
   print('--------------NUMEROS ALEATORIOS---------------------------');
   somaDoisNumerosAleatorios();
 }
